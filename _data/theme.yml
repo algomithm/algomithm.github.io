@@ -60,10 +60,14 @@ font:
     families:
       - name: Raleway
         weight: 300
+      - name: Kanit
+        weight: 200
     default: sans-serif
   body:
     families:
       - name: Lora
+      - name: Maitree
+        weight: 400
     default: serif
   mono:
     families:
@@ -72,4 +76,4 @@ font:
     size: 1.0em
     line-height: 1.2
   languages:
-    - latin-ext
+    - thai

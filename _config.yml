@@ -5,16 +5,16 @@
 # Identity
 # --------
 
-title:
-description:
+title:       อัลกอมิทึ่ม
+description: เพราะเราไม่ได้มีเวลาเป็นอนันต์ในการรอผลลัพธ์
 
 logo:  "/assets/img/logo.png"
 cover: "/assets/img/cover.png"
 
 baseurl:
-url:
+url:     https://algomithm.github.io
 
-owner:
+owner:  algomithm
 rights: All Right Reserved
 
 
