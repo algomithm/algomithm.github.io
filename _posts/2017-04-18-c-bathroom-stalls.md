@@ -1,11 +1,14 @@
 ---
-title: Code Jam 2017 Qualification - C. Bathroom Stalls
+title: C. Bathroom Stalls
 tags:
-  - Google Code Jam
   - Partition
-  - dq
+  - Devide and Conquer
   - Dynamic Programming
-  - Pyhton
+  - Python
+categories:
+  - Code Jam
+  - 2017
+  - Qualification
 problem: TODO url here
 ---
 
